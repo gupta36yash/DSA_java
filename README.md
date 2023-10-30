@@ -9,3 +9,6 @@ Currently contains the code for:
 5) Binary search tree
 6) Min and Max heap using primitive arrays
 7) Graph using adjacent matrix
+
+
+trying soemthing
